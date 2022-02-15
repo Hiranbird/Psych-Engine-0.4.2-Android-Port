@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				31,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TordIdleLeft"
+		},
+		{
+			"offsets": [
+				-26,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TordIdleUp"
+		},
+		{
+			"offsets": [
+				20,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "TordIdleHEY!!"
+		},
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TordIdleRight"
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TordIdleDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "TordIdlePlayable"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TomatoRed",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "icon-chal",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		46
+	],
+	"camera_position": [
+		-100,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
